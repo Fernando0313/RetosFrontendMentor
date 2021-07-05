@@ -67,7 +67,7 @@ header{
 }
 .card-2{
 
-    background-image: url('/images/image-header-desktop.jpg');
+    background-image: url('images/image-header-desktop.jpg');
     width: 800px;
     background-size: cover;
     border-radius: 0px 9px 9px 0px;
@@ -172,7 +172,7 @@ header{
 
 
     .card-2{
-        background-image: url('/images/image-header-mobile.jpg');
+        background-image: url('images/image-header-mobile.jpg');
         background-size: cover;
         width: 330px;
         height: 200px;
